@@ -1,0 +1,66 @@
+2024-11-24 18:59:31 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:31 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:31 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:31 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:36 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:36 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:36 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:36 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:39 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:39 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:39 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:39 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:40 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:40 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:40 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:40 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:41 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:41 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:41 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:41 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:44 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:44 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:44 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:44 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:45 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:45 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:45 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:45 - Errors found: Incorrect Username or Password
+2024-11-24 18:59:45 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 18:59:45 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 18:59:45 - Login failed: Incorrect Username or Password
+2024-11-24 18:59:45 - Errors found: Incorrect Username or Password
+2024-11-24 19:00:00 - Username: emily.brown@example.com, Password Length: 17
+2024-11-24 19:00:00 - Encrypted Password: 11a2798f08e92fc307b259278d68d3cf
+2024-11-24 19:00:00 - Login failed: Incorrect Username or Password
+2024-11-24 19:00:00 - Errors found: Incorrect Username or Password
+2024-11-24 19:00:16 - Username: bensonmakau2000@gmail.com, Password Length: 6
+2024-11-24 19:00:16 - Encrypted Password: ebcfd5a11d7cf5ba89f838fc766be7a4
+2024-11-24 19:00:16 - Login failed: Incorrect Username or Password
+2024-11-24 19:00:16 - Errors found: Incorrect Username or Password
+2024-11-24 19:02:43 - Username: demo@mailinator.com, Password Length: 4
+2024-11-24 19:02:43 - Encrypted Password: fe01ce2a7fbac8fafaed7c982a04e229
+2024-11-24 19:02:43 - Login failed: Incorrect Username or Password
+2024-11-24 19:02:43 - Errors found: Incorrect Username or Password
+2024-11-24 19:05:30 - Login attempt - Username: emily.brown@example.com
+2024-11-24 19:05:30 - Login failed for username: emily.brown@example.com
+2024-11-24 19:05:44 - Login attempt - Username: bensonmakau2000@gmail.com
+2024-11-24 19:05:44 - Login failed for username: bensonmakau2000@gmail.com
+2024-11-24 19:06:00 - Login attempt - Username: demo@mailinator.com
+2024-11-24 19:06:00 - Login failed for username: demo@mailinator.com
+2024-11-24 19:06:18 - Login attempt - Username: demo
+2024-11-24 19:06:18 - Login successful for username: demo
+2024-11-24 19:08:34 - Login attempt - Username: demo
+2024-11-24 19:08:34 - Login successful for username: demo
+2024-11-24 19:11:19 - Login attempt - Username: demo
+2024-11-24 19:11:19 - Login successful for username: demo
+2024-11-24 21:42:39 - Login attempt - Username: demo
+2024-11-24 21:42:39 - Login successful for username: demo
+2024-11-25 14:24:45 - Login attempt - Username: demo
+2024-11-25 14:24:45 - Login successful for username: demo
+2024-11-25 14:39:59 - Login attempt - Username: demo
+2024-11-25 14:40:01 - Login successful for username: demo
+2024-11-26 14:23:19 - Login attempt - Username: demo
+2024-11-26 14:23:20 - Login successful for username: demo
+2024-11-26 16:18:01 - Login attempt - Username: demo
+2024-11-26 16:18:01 - Login successful for username: demo
